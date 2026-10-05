@@ -9,6 +9,10 @@
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
+  "allowScripts": {
+    "@swc/core": true,
+    "@swc/counter": true
+  },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.3.3",
     "@tailwindcss/vite": "^4.2.2",

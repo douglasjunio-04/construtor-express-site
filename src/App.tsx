@@ -49,7 +49,7 @@ const wheelPrizes: WheelPrize[] = [
     resultTitle: 'Cupom Projetos10',
     resultMessage: 'Para pedidos a partir do Mega Pack.',
     ctaLabel: 'Aplicar no Mega Pack',
-    href: 'https://payfast.greenn.com.br/mx6qdv5/offer/n2h1Gy?ch_id=143967&utm_source=organic&utm_campaign=&utm_medium=&utm_content=&utm_term=',
+    href: 'https://payfast.greenn.com.br/redirect/791210',
     isAllowed: true,
     couponCode: 'projetos10'
   },
@@ -60,7 +60,7 @@ const wheelPrizes: WheelPrize[] = [
     resultTitle: 'Cupom Projetos15',
     resultMessage: 'Para pedidos a partir do Mega Pack.',
     ctaLabel: 'Aplicar no Mega Pack',
-    href: 'https://payfast.greenn.com.br/mx6qdv5/offer/n2h1Gy?ch_id=143967&utm_source=organic&utm_campaign=&utm_medium=&utm_content=&utm_term=',
+    href: 'https://payfast.greenn.com.br/redirect/791210',
     isAllowed: true,
     couponCode: 'projetos15'
   },
@@ -91,7 +91,7 @@ const wheelPrizes: WheelPrize[] = [
     resultTitle: 'Ultra Pack por R$37,90',
     resultMessage: 'Você ganhou um super desconto em 500 projetos, clique no link abaixo e garanta essa condição apenas nessa tela.',
     ctaLabel: 'Garantir Ultra Pack por R$37,90',
-    href: 'https://payfast.greenn.com.br/fer3kv5/offer/dXBDLA?ch_id=143967&utm_source=organic&utm_campaign=&utm_medium=&utm_content=&utm_term=',
+    href: 'https://payfast.greenn.com.br/redirect/791216',
     isAllowed: true,
     couponCode: 'ULTRA37'
   },
@@ -919,7 +919,7 @@ const App = () => {
                   </div>
                 </div>
                 <a 
-                  href="https://payfast.greenn.com.br/mx6qdv5/offer/n2h1Gy?ch_id=143967&utm_source=organic&utm_campaign=&utm_medium=&utm_content=&utm_term="
+                  href="https://payfast.greenn.com.br/redirect/791210"
                   className="block text-center w-full bg-slate-950 border border-slate-950 text-white py-4 md:py-6 rounded-2xl md:rounded-3xl font-black text-lg md:text-lg hover:bg-slate-800 transition-all"
                 >
                   GARANTIR MEGA PACK
@@ -994,7 +994,7 @@ const App = () => {
                     </div>
                   </div>
                   <a 
-                    href="https://payfast.greenn.com.br/fer3kv5/offer/dXBDLA?ch_id=143967&utm_source=organic&utm_campaign=&utm_medium=&utm_content=&utm_term="
+                    href="https://payfast.greenn.com.br/redirect/791216"
                   className="block text-center w-full bg-primary text-white py-5 md:py-7 rounded-2xl md:rounded-3xl font-black text-xl md:text-xl hover:scale-[1.02] active:scale-[0.98] transition-all"
                   >
                     GARANTIR ULTRA PACK
